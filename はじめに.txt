@@ -11,7 +11,6 @@ v1 preview は最初の公開版で、日常会話・相談・計算・プログ
 収録内容
 --------------------------------------------------
   Brain\      シャープ 電子辞書 Brain（Windows CE 6.0）用
-  Emulator\   Visual Studio 2008 Device Emulator（Windows Mobile 5.0）用
 
   いずれも、実行ファイルと同じフォルダにある model.bin、tok.bin、igc.bin を使用します。
   フォルダの構成は変更せずにお使いください。

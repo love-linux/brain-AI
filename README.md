@@ -6,7 +6,6 @@
 ## 収録内容
 
 - `Brain/` — Brain 実機用。SD カードの最上位に「アプリ」フォルダをコピーして使います
-- `Emulator/` — Visual Studio 2008 Device Emulator（Windows Mobile 5.0）用
 
 詳しい使い方は同梱の「はじめに.txt」をご覧ください。
 

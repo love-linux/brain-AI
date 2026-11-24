@@ -1,7 +1,7 @@
 # brain-ai v1 preview
 
 シャープの電子辞書 Brain（第4世代・Windows CE 6.0）の上で、オフラインのまま動作する日本語の小型 AI です。
-約 1,470 万パラメータで、モデルは約 6.7MB。日常会話・相談・計算・プログラミングに関する簡単な質問に対応します。
+モデルのサイズは約 6.7MB で、日常会話・相談・計算・プログラミングに関する簡単な質問に対応します。
 ただし小さなモデルのため回答になってないことが多いため、おもちゃみたいなものと思ってください
 
 ## 収録内容
@@ -19,13 +19,17 @@ Brain 実機での動作は未検証です。
 
 CC BY-SA 4.0（[LICENSE](LICENSE) 参照）。日本語 Wikipedia に由来する知識を含むため、このライセンスとしています。
 
-学習データの出典:
+データの出典:
 
 - 日本語 Wikipedia（CC BY-SA 4.0）
 - github-code-clean（MIT / Apache-2.0 / BSD ライセンスのもののみ）
 - Qwen3.8-27B による生成データ（Apache-2.0）
 
 モデルの配布先: https://huggingface.co/yamada2wasabi/brain-ai-v1-preview
+
+## フィードバック・連絡先
+
+動作報告や不具合の報告、その他のフィードバックは `love-linux-brain@proton.me` までお願いします。
 
 ## 作者
 
